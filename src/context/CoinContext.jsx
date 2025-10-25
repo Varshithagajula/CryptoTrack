@@ -14,7 +14,7 @@ const CoinContextProvider = (props) => {
         const url = `https://api.coingecko.com/api/v3/coins/markets?vs_currency=${currency.name}&ids=bitcoin&names=Bitcoin&symbols=btc&category=layer-1&price_change_percentage=1h`;
         const options = {
           method: 'GET',
-          headers: {'x-cg-demo-api-key': 'CG-aQzgLzPgp3rjmjJWqPFht2Pe'},
+          headers: {'x-cg-demo-api-key': '---Enter Your API key-----'},
           body: undefined
         };
 
