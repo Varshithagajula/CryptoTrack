@@ -1,0 +1,12 @@
+.footer{
+    font-size: 15px;
+    max-width: 90%;
+    margin: auto;
+    padding: 20px 0px;
+    text-align: center;
+    border-top: 1px solid #989898;
+    color:white;
+    /* background: linear-gradient(rgba(84,3,255,0.15),rgba(105,2,153,0.15)); */
+
+
+}
